@@ -1,4 +1,4 @@
-echo "this is example script using github attempt1"
+echo "this is example script using github at"
 echo "This is running build step"
 echo "this is a param $PASSED"
 NUM=$(expr "$FIRSTNUMBER" + "$SECONDNUMBER") 
